@@ -12,5 +12,8 @@ class MainActivity : AppCompatActivity() {
         Log.d( "ABC","sfsfes" )
         Log.d("AAA","nguyen quoc the")
         Log.d("CCC",",àakfaf")
+        Log.d("DĐD","Branch three")
+        Log.d("EEE","Branch three")
+        Log.d("FFF","Branch three")
     }
 }
